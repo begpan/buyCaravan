@@ -1,0 +1,58 @@
+.imgSlider {
+    height: 600px;
+    object-fit: cover;
+  }
+  
+  body {
+    padding-top: 50px;
+    font-family: "Electrolize", sans-serif;
+    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
+  }
+  
+  
+  .about{
+      background-color: #f2f2f2;
+  }
+  
+  
+  .line{
+    border: none;
+    border: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+  }
+  
+  .icon{
+    color: #343a40;
+    position: relative;
+    top: -67px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color:#f2f2f2;
+  }
+  
+  
+  .icon2{
+    color: #343a40;
+    position: relative;
+    top: -67px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color:white;
+  }
+  
+  .cardStyle img:hover{
+    opacity: 0.8;
+  
+  }
+  
+  .gallery{
+    background-color: #f2f2f2;
+  }
+  
+  .figure:hover{
+    opacity: 0.8;
+  }
+  
+  
