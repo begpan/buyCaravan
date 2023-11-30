@@ -11,4 +11,4 @@ This site was created with bootstrap library
 
 <h3>Screen Gif</h3>
 
-![karavan](https://github.com/begpan/buyCaravan/assets/145170180/625304aa-cde8-452f-9ab8-ba515b9c233e)
+![karavan](https://github.com/begpan/buyCaravan/assets/145170180/4e342324-989b-4257-bf3b-964b650109fd)
